@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fieldproxy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fieldproxy.ai
+Fieldproxy provides AI‑powered field service software that configures around a customer’s existing workflows, integrating job dispatch, scheduling, invoicing and customer portals into a single system. The platform is aimed at field service businesses and enterprises that need to manage technicians, jobs, assets and payments, offering unlimited users with a single price and multilingual support.
+
+**Areas:** Field Service Software · AI · Scheduling · Dispatch · Invoicing · Customer Portal · Multi‑language
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fieldproxy.ai)
+- [Documentation](https://www.fieldproxy.ai/guides)
+- [API reference](https://www.fieldproxy.ai/developers/docs)
+- [Pricing](https://www.fieldproxy.ai/pricing)
+- [Support](https://support.fieldproxy.ai/report)
+- [Blog](https://www.fieldproxy.ai/resources/blog)
+- [Security](https://www.fieldproxy.ai/industries/security)
+- [Terms of service](https://www.fieldproxy.ai/terms-of-service)
+- [Privacy policy](https://www.fieldproxy.ai/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fieldproxy-ai/](https://apis.io/providers/fieldproxy-ai/).
